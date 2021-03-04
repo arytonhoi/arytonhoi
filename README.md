@@ -6,7 +6,7 @@ I'm interested in working on difficult and unique problems and collaborating wit
 
 ---
 
-**Current working on 💻**
+**💻 Current working on**
 - Improving staff portal for Cedars-Sinai hospital.
   - [Github](https://github.com/arytonhoi/cedars-sinai-frontend)
   - [Demo site - password: demopw](https://cedars-sinai-dev.web.app/)
@@ -17,7 +17,7 @@ I'm interested in working on difficult and unique problems and collaborating wit
 
 ---
 
-**Next project plans 🔭**
+**🔭 Next project plans**
 - Personal web server
 - Redoing portfolio site [current version](arytonhoi.me)
 
