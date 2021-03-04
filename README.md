@@ -1,8 +1,8 @@
 ### Hi, I'm Aryton 👋
 
-I'm a Software Engineer seeking a full-time SWE position following my May 2021 graduation from Northeastern University.
+I'm a **Software Engineer** seeking a full-time SWE position following my **May 2021** graduation from **Northeastern University**.
 
-I'm **interested** in working on difficult and unique problems and collaborating with other motivated people. My current **goals** are to become a better SWE and problem solver.
+I'm interested in working on difficult and unique problems and collaborating with other motivated people. My current goals are to become a better SWE and problem solver.
 
 ---
 
@@ -10,6 +10,9 @@ I'm **interested** in working on difficult and unique problems and collaborating
 - Improving staff portal for Cedars-Sinai hospital.
   - [Github](https://github.com/arytonhoi/cedars-sinai-frontend)
   - [Demo site - password: demopw](https://cedars-sinai-dev.web.app/)
+
+- Helping to run [Develop For Good](https://www.developforgood.org/)
+
 - Learning competitive programming
 
 ---
