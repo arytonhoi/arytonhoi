@@ -19,7 +19,7 @@ I'm interested in working on difficult and unique problems and collaborating wit
 
 **🔭 Next project plans**
 - Personal web server
-- Redoing portfolio site [current version](arytonhoi.me)
+- Redoing portfolio site: [current version](http://arytonhoi.me/)
 
 <!--
 **arytonhoi/arytonhoi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
