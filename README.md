@@ -1,8 +1,6 @@
 ### Hi, I'm Aryton 👋
 
-I'm a **Software Engineer** seeking a full-time SWE position following my **May 2021** graduation from **Northeastern University**.
-
-I'm interested in working on difficult and unique problems and collaborating with other motivated people. My current goals are to become a better SWE and problem solver.
+I'm currently a **Software Engineer** at **AWS S3 on Outposts**.
 
 ---
 
